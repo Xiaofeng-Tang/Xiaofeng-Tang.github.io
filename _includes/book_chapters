@@ -1,21 +1,24 @@
 <section class="thirteen columns">
-    <h1>Book Chapters</h1>
+    <h1>Education</h1>
     <article>
         <header>
             <h1>Ph.D. in Science and Technology Studies</h1>
             <span>Rensselaer Polytechnic Institute</span>
+            <span><address>New York, USA</address><time>2011 to 2014</time></span>
         </header>
+        <!--
         <p>
             <em>Thesis: Nemore verear an eos, duo accusam placerat urbanitas at, vix libris putent voluptaria ei.</em>
-        </p>
+        </p>-->
     </article>
     <article>
         <header>
             <h1>B. Eng Major in Automation</h1>
             <span>Tsinghua University</span>
+            <span><address>Beijing, China</address><time>2001 to 2005</time></span>
         </header>
-        <p>
-            Dissertation: Te dicit scripta nec, nec illud decore partem et.
-        </p>
+        <!--<p>
+            <em>Dissertation: Te dicit scripta nec, nec illud decore partem et.</em>
+        </p>-->
     </article>
 </section>
