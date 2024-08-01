@@ -29,10 +29,9 @@
         <h1>{{ site.name }}</h1>
         <address>
             <a href="{{ site.google_maps }}">
-                {{ site.address.street }}<br/>
-                {{ site.address.postcode }}<br/>
-                {{ site.address.city }}<br/>
-                {{ site.address.country }}
+                {{ site.address.building }},{{ site.address.univerisity }}<br/>
+                {{ site.address.district }}<br/>
+                {{ site.address.postcode }},{{ site.address.city }},{{ site.address.country }}
             </a>
         </address>
         <p>
@@ -40,7 +39,7 @@
         </p>
         <p>
             <a href="{{ site.email_full }}">{{ site.email }}</a><br/>
-            <a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i> Github</a> /
+            <a href="{{ site.email_full }}"><i class="fa fa-envelope"></i> Email</a> /
             <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i> Twitter</a>
         </p>
     </header>
