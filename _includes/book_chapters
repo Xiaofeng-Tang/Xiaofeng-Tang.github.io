@@ -1,0 +1,21 @@
+<section class="thirteen columns">
+    <h1>Book Chapters</h1>
+    <article>
+        <header>
+            <h1>Understanding EU and Danish Higher Education Governance through a Comparison with US Reforms</h1>
+            <span>Akera, A. & Tang, X. (2016).</span>
+        </header>
+        <p>
+            Søsser Brodersen & Ulrik Jørgensen eds. Engineering Professionalism: Engineering Practices in Work and Education. Sense Publishers.
+        </p>
+    </article>
+    <article>
+        <header>
+            <h1>Institutional Responses to the Bologna Process in Danish Engineering Education</h1>
+            <span>Akera, A. & Tang, X. (2016).</span>
+        </header>
+        <p>
+            Søsser Brodersen & Ulrik Jørgensen eds. Engineering Professionalism: Engineering Practices in Work and Education. Sense Publishers.
+        </p>
+    </article>
+</section>
