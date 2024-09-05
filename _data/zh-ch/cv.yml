@@ -1,101 +1,56 @@
-- title: Informações Gerais
+- title: 联系方式
   type: map
   contents:
-    - name: Nome Completo
-      value: Albert Einstein
-    - name: Data de Nascimento
-      value: 14 de março de 1879
-    - name: Idiomas
-      value: Inglês, Alemão
+    - name: 办公地址
+      value: 北京市海淀区清华大学文南楼406, 100084
+    - name: 邮箱
+      value: denvertang@mail.tsinghua.edu.cn
 
-- title: Educação
+- title: 教育背景
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurique, Suíça
-      year: 1905
+    - title: 博士 
+      institution: 仁斯利尔理工学院
+      year: 2014
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Diploma de ensino federal
-      institution: Eidgenössische Technische Hochschule, Zurique, Suíça
-      year: 1900
+        - 科学与技术研究
+    - title: 学士
+      institution: 清华大学
+      year: 2005
       description:
-        - Descrição 1.
-        - Descrição 2.
+        - 自动化
 
-- title: Experiência
+- title: 工作履历
   type: time_table
   contents:
-    - title: Professor de Física Teórica
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Professor Visitante
-      institution: California Institute of Technology, Pasadena, Califórnia, EUA
-      year: 1933
-      description:
-        - Descrição 1.
-        - Descrição 2.
+    - title: 副教授
+      institution: 清华大学教育研究院
+      year: 2020 - 至今
+      
+    - title: 实践助理教授
+      institution: 俄亥俄州立大学工程教育系
+      year: 2017 - 2020
 
-    - title: Diretor
-      institution: Kaiser Wilhelm Institute for Physics, Berlim, Alemanha.
-      year: 1917-1933
+    - title: 博士后学者
+      institution: 宾州州立大学洛克伦理研究所 & 伦纳德工程教育促进中心
+      year: 2014 - 2017
 
-    - title: Professor de Física Teórica
-      institution: Karl-Ferdinand University, Praga, Tchecoslováquia
-      year: 1911 - 1917
-      description:
+    - title: 电气工程师，
+      institution: 上海宝信软件
+      year: 2005 - 2006
 
-    - title: Professor Associado de Física Teórica
-      institution: University of Zurich, Zurique, Suíça
-      year: 1909 - 1911
-
-- title: Projetos de Código Aberto
+- title: 学术兼职
   type: time_table
   contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-atual
-      description: Uma variação do tema al-folio com suporte a múltiplos idiomas.
+    - title: 助理编辑
+      description: Journal of Engineering Education 期刊
+      year: 2022 - 至今
+      
+    - title: 主席
+      description: 美国工程教育协会工程伦理分会
+      year: 2020 - 2021
 
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-atual
-      description: Um tema Jekyll bonito, simples, limpo e responsivo para acadêmicos.
+    - title: 程序主席
+      description: 美国工程教育协会工程伦理分会
+      year: 2019 - 2020
 
-- title: Honrarias e Prêmios
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Prêmio Nobel de Física
-        - Medalha Matteucci
-    - year: 2029
-      items:
-        - Medalha Max Planck
-
-- title: Interesses Acadêmicos
-  type: nested_list
-  contents:
-    - title: Tópico 1.
-      items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: Tópico 2.
-      items:
-        - Descrição 1.
-        - Descrição 2.
-
-- title: Outros Interesses
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
