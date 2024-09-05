@@ -2,7 +2,7 @@ archive_category: um arquivo de postagens desta categoria
 archive_tag: um arquivo de postagens com este marcador
 archive_year: um arquivo de postagens deste ano
 blog:
-  navigation_title: blog
+  navigation_title: 博客
 categories:
   fun: diversão
   work: trabalho
@@ -11,32 +11,32 @@ citation:
   introduction: "Se você achou isso útil, por favor cite como:"
 contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
 cv:
-  address: Endereço
-  area: Área
+  address: 地址
+  area: 区域
   awarder: Premiado por
   awards: Prêmios
-  basics: Informações gerais
+  basics: 基本信息
   certificates: Certificados
-  city: Cidade
-  countryCode: Código do país
-  courses: Cursos
-  date: Data
-  education: Educação
-  email: Email
-  endDate: Data de término
+  city: 城市
+  countryCode: 国家代码
+  courses: 课程
+  date: 日期
+  education: 教育
+  email: 电子邮件
+  endDate: 结束日期
   fluency: Fluência
   highlights: Destaques
-  image: Imagem
-  institution: Instituição
-  interests: Interesses
+  image: 图片
+  institution: 机构
+  interests: 兴趣
   issuer: Emissor
   keywords: Palavras chave
-  label: Título
-  language: Idioma
+  label: 标签
+  language: 语言
   languages: Idiomas
   level: Nível
   location: Localização
-  name: Nome
+  name: 姓名
   network: Rede
   organization: Organização
   phone: Telefone
@@ -50,15 +50,15 @@ cv:
   references: Referências
   region: Região
   releaseDate: Data de lançamento
-  score: Pontuação
-  skills: Habilidades
-  startDate: Data de início
+  score: 分数
+  skills: 技能
+  startDate: 开始日期
   studyType: Tipo de estudo
   summary: Resumo
   table_of_contents: Tópicos
   title: Título
   url: Url
-  username: Usuário
+  username: 用户名
   volunteer: Voluntário
   work: Trabalho
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
@@ -68,18 +68,18 @@ footer_text: > # the ">" symbol means to ignore newlines until "titles:"
 latest_posts: últimas postagens
 months:
   long:
-    january: Janeiro
-    february: Fevereiro
-    march: Março
-    april: Abril
-    may: Maio
-    june: Junho
-    july: Julho
-    august: Agosto
-    september: Setembro
-    october: Outubro
-    november: Novembro
-    december: Dezembro
+    january: 一月
+    february: 二月
+    march: 三月
+    april: 四月
+    may: 五月
+    june: 六月
+    july: 七月
+    august: 八月
+    september: 九月
+    october: 十月
+    november: 十一月
+    december: 十二月
   short:
     january: Jan
     february: Fev
@@ -96,12 +96,12 @@ months:
 news: novidades
 newsletter:
   back: Voltar
-  error: "Oops! Algo deu errado, por favor tente novamente."
+  error: "出错了！请稍后再试。"
   subscribe: inscrever-se
   subscribed: "Você se inscreveu com sucesso na newsletter."
   subscribe_to_receive: "Inscreva-se para ser notificado de futuros artigos:"
   too_many_signups: "Muitas inscrições, por favor tente novamente em breve"
-  wait: "Por favor, aguarde..."
+  wait: "请稍等..."
 no_news: Nenhuma novidade no momento...
 pagination:
   newer: Recentes
@@ -111,14 +111,14 @@ post:
   created_in: Criado em
   created_by: por
   last_updated: última atualização em
-references: Referências
+references: 参考文献
 related_posts:
   description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
   title: Gostou de Ler este Artigo?
 search:
   dark_theme:
-    description: Muda o tema do site para escuro
-    title: Muda o tema para escuro
+    description: 改为深夜模式
+    title: 深夜模式
   dropdown: Outras opções
   email: Enviar um email
   footer:
@@ -126,15 +126,15 @@ search:
     navigate: para navegar
     parent: voltar um nível
     select: para selecionar
-  languages: Idiomas
+  languages: 语言
   light_theme:
-    description: Muda o tema do site para claro
-    title: Muda o tema para claro
+    description: 改为白天模式
+    title: 白天模式
   navigation: Menu de navegação
   news: Novidades
   placeholder: Digite para iniciar a busca
   posts: Postagens
-  projects: Projetos
+  projects: 项目
   socials: Redes sociais
   system_theme:
     description: Muda o tema do site para o padrão do sistema
