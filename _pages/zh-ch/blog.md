@@ -2,9 +2,9 @@
 page_id: blog
 layout: default
 permalink: /blog/
-title: blog
-blog_name: al-folio em português brasileiro
-description: um tema simples para acadêmicos
+title: 博客
+blog_name: 工程教育小分队
+description: 工程教育小分队
 nav: true
 nav_order: 1
 pagination:
