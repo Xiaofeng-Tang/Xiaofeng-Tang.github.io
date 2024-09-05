@@ -2,8 +2,8 @@
 page_id: profiles
 layout: profiles
 permalink: /people/
-title: membros
-description: membros do grupo de pesquisa ou laboratório
+title: 成员
+description: 工程教育小分队成员
 nav: true
 nav_order: 7
 
