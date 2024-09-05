@@ -20,8 +20,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Escreva sua biografia aqui. Diga ao mundo sobre você. Adicione o link para o seu [subreddit](http://reddit.com) favorito. Você pode colocar uma foto também. O código já está dentro, basta nomear sua foto como `prof_pic.jpg` e colocá-la na pasta `img/`.
-
-Coloque seu endereço / caixa postal / outras informações logo abaixo da sua foto. Você também pode desabilitar qualquer um desses elementos editando a propriedade `profile` do cabeçalho YAML do seu `_pages/about.md`. Edite `_bibliography/papers.bib` e o Jekyll renderizará sua [página de publicações](/multi-language-al-folio/publications/) automaticamente.
-
-Adicione links para seus perfis de mídias sociais também. Este tema está configurado para usar [Font Awesome icons](https://fontawesome.com/) e [Academicons](https://jpswalsh.github.io/academicons/), como os visto abaixo. Adicione seu Facebook, Twitter, LinkedIn, Google Scholar ou simplesmente desative todos eles.
+我的学术工作聚焦于理解和推动工程教育变革，致力培养具有领导力、责任感、和创新能力的工程人才。结合社会学、伦理学、历史、教育学等不同学科的视角和方法，我在`工程伦理`、`国际工程教育`、`工程文化`等领域开展研究和教学。我获得过美国工程院`工程伦理教育示范项目（主要贡献人）`、俄亥俄州立大学`创业教育希望之星(KEEN Rising Star)`等荣誉。我的研究成果发表在Journal of Engineering Education, Science and Engineering Ethics，Engineering Studies, International Journal of Engineering Education等期刊上。
