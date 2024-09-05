@@ -2,7 +2,7 @@
 page_id: cv
 layout: cv
 permalink: /cv/
-title: 导师简历
+title: 导师
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
