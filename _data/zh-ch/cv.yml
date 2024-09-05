@@ -9,16 +9,13 @@
 - title: 教育背景
   type: time_table
   contents:
-    - title: 博士 
+    - title: 博士，科学与技术研究
       institution: 仁斯利尔理工学院
       year: 2014
-      description:
-        - 科学与技术研究
-    - title: 学士
+
+    - title: 学士，自动化
       institution: 清华大学
       year: 2005
-      description:
-        - 自动化
 
 - title: 工作履历
   type: time_table
@@ -35,7 +32,7 @@
       institution: 宾州州立大学洛克伦理研究所 & 伦纳德工程教育促进中心
       year: 2014 - 2017
 
-    - title: 电气工程师，
+    - title: 电气工程师
       institution: 上海宝信软件
       year: 2005 - 2006
 
