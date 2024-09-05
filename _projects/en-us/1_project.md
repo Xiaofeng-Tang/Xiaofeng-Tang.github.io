@@ -1,8 +1,8 @@
 ---
 page_id: project_1
 layout: page
-title: 工程教育基础
-description: with background image
+title: Fundamentals of Engineering Education
+description: 32 class hours, 2 credits
 img: assets/img/12.jpg
 importance: 1
 category: work
