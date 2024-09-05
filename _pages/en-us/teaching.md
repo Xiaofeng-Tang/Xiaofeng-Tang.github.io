@@ -1,7 +1,7 @@
 ---
 page_id: teaching
 layout: page
-permalink: /teaching/
+permalink: /projects/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
