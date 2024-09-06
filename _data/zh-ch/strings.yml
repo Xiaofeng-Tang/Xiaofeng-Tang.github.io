@@ -139,5 +139,5 @@ search:
     description: Muda o tema do site para o padrão do sistema
     title: Usa o tema padrão do sistema
   theme: Tema
-selected_publications: publicações selecionadas
+selected_publications: 代表性出版物
 site_description: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
