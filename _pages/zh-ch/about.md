@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: 关于
 permalink: /
-subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+subtitle: <a href='https://www.ioe.tsinghua.edu.cn/index.htm'>清华大学教育研究院</a>，副教授
 
 profile:
   align: right
