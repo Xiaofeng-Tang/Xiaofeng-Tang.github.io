@@ -14,7 +14,7 @@ cv:
   address: 地址
   area: 区域
   awarder: Premiado por
-  awards: Prêmios
+  awards: 获奖
   basics: 基本信息
   certificates: Certificados
   city: 城市
@@ -30,42 +30,41 @@ cv:
   institution: 机构
   interests: 兴趣
   issuer: Emissor
-  keywords: Palavras chave
+  keywords: 关键词
   label: 标签
   language: 语言
-  languages: Idiomas
+  languages: 语言
   level: Nível
   location: Localização
   name: 姓名
   network: Rede
   organization: Organização
-  phone: Telefone
+  phone: 电话
   position: Posição
-  postalCode: Código postal
+  postalCode: 邮政编码
   profiles: Perfis
-  projects: Projetos
-  publications: Publicações
+  projects: 项目
+  publications: 出版物
   publisher: Editora
   reference: Referência
   references: Referências
-  region: Região
-  releaseDate: Data de lançamento
+  region: 地区
+  releaseDate: 发布日期
   score: 分数
   skills: 技能
   startDate: 开始日期
-  studyType: Tipo de estudo
+  studyType: 学习类型
   summary: Resumo
   table_of_contents: Tópicos
-  title: Título
+  title: 标题
   url: Url
   username: 用户名
-  volunteer: Voluntário
-  work: Trabalho
+  volunteer: 志愿者
+  work: 工作
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-latest_posts: últimas postagens
+  <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>驱动，<a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>主题支持。
+  由<a href="https://pages.github.com/" target="_blank">GitHub Pages</a>托管。
+latest_posts: 最新帖子
 months:
   long:
     january: 一月
@@ -82,35 +81,35 @@ months:
     december: 十二月
   short:
     january: Jan
-    february: Fev
+    february: Feb
     march: Mar
-    april: Abr
-    may: Mai
+    april: Apr
+    may: May
     june: Jun
     july: Jul
-    august: Ago
-    september: Set
-    october: Out
+    august: Aug
+    september: Sept
+    october: Oct
     november: Nov
-    december: Dez
-news: novidades
+    december: Dec
+news: 新闻
 newsletter:
-  back: Voltar
+  back: 后退
   error: "出错了！请稍后再试。"
-  subscribe: inscrever-se
+  subscribe: 订阅
   subscribed: "Você se inscreveu com sucesso na newsletter."
   subscribe_to_receive: "Inscreva-se para ser notificado de futuros artigos:"
   too_many_signups: "Muitas inscrições, por favor tente novamente em breve"
   wait: "请稍等..."
-no_news: Nenhuma novidade no momento...
+no_news: 没有新闻...
 pagination:
   newer: Recentes
   older: Antigas
   page: página
 post:
   created_in: Criado em
-  created_by: por
-  last_updated: última atualização em
+  created_by: 作者
+  last_updated: 最后更新
 references: 参考文献
 related_posts:
   description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
@@ -120,7 +119,7 @@ search:
     description: 改为深夜模式
     title: 深夜模式
   dropdown: Outras opções
-  email: Enviar um email
+  email: 电子邮件
   footer:
     close: para fechar
     navigate: para navegar
@@ -130,8 +129,8 @@ search:
   light_theme:
     description: 改为白天模式
     title: 白天模式
-  navigation: Menu de navegação
-  news: Novidades
+  navigation: 导航
+  news: 新闻
   placeholder: Digite para iniciar a busca
   posts: Postagens
   projects: 项目
