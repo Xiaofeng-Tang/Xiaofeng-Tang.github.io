@@ -1,5 +1,5 @@
 ---
-page_id: projects
+page_id: profiles
 layout: page
 title: projects
 permalink: /profiles/
