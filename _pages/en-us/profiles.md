@@ -1,7 +1,7 @@
 ---
 page_id: profiles
 layout: page
-title: projects
+title: people
 permalink: /profiles/
 description: Members of out group.
 nav: true
