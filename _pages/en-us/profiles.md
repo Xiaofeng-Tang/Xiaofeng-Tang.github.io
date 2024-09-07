@@ -29,7 +29,7 @@ horizontal: false
           </div>
         </div>
       {% else %}
-        <div class="row row-cols-1 row-cols-md-3">
+        <div class="row row-cols-1 row-cols-md-4">
           {% for profile in sorted_profiles %}
             {% include profiles.liquid %}
           {% endfor %}
