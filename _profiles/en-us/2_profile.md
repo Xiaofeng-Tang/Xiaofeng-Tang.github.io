@@ -1,8 +1,8 @@
 ---
 page_id: profile_2
 layout: page
-title: Runda Liu
-description: description
+title: Runda LIU
+description: 2022-
 img: assets/img/12.jpg
 importance: 2
 category: master
