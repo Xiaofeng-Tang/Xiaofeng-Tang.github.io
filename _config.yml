@@ -8,7 +8,7 @@ middle_name:
 last_name: Tang
 email: denvertang@mail.tsinghua.edu.cn
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🍬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://xiaofeng-tang.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -157,7 +157,7 @@ disqus_shortname: multi-language-al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: Google Blog
+  - name: 微信公众平台
     posts:
       - url: https://mp.weixin.qq.com/s/xRNg_Dl-3urIupMOijxkuw
         published_date: 2023-05-17
