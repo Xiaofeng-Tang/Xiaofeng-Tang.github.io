@@ -17,20 +17,20 @@ horizontal: false
       <a id="{{ site.data[site.active_lang].strings.categories[category] }}" href=".#{{ site.data[site.active_lang].strings.categories[category] }}">
         <h2 class="category">{{ site.data[site.active_lang].strings.categories[category] }}</h2>
       </a>
-      {% assign categorized_projects = site.projects | where: "category", category %}
-      {% assign sorted_projects = categorized_projects | sort: "importance" %}
+      {% assign categorized_profiles = site.profiles | where: "category", category %}
+      {% assign sorted_profiles = categorized_profiles | sort: "importance" %}
       <!-- Generate cards for each project -->
       {% if page.horizontal %}
         <div class="container">
           <div class="row row-cols-1 row-cols-md-2">
-            {% for project in sorted_projects %}
+            {% for profile in sorted_profiles %}
               {% include projects_horizontal.liquid %}
             {% endfor %}
           </div>
         </div>
       {% else %}
         <div class="row row-cols-1 row-cols-md-3">
-          {% for project in sorted_projects %}
+          {% for profile in sorted_profiles %}
             {% include projects.liquid %}
           {% endfor %}
         </div>
@@ -38,19 +38,19 @@ horizontal: false
     {% endfor %}
   {% else %}
     <!-- Display projects without categories -->
-    {% assign sorted_projects = site.projects | sort: "importance" %}
+    {% assign sorted_profiles = site.profile | sort: "importance" %}
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
         <div class="row row-cols-1 row-cols-md-2">
-          {% for project in sorted_projects %}
+          {% for profile in sorted_profiles %}
             {% include projects_horizontal.liquid %}
           {% endfor %}
         </div>
       </div>
     {% else %}
       <div class="row row-cols-1 row-cols-md-3">
-        {% for project in sorted_projects %}
+        {% for profile in sorted_profiles %}
           {% include projects.liquid %}
         {% endfor %}
       </div>
