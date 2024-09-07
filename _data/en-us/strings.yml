@@ -6,6 +6,11 @@ blog:
 categories:
   fun: fun
   work: work
+  staff: Staff
+  phd: Ph.D.
+  master: Master
+  undergrad: Undergrad
+  alumni: Alumni
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"
