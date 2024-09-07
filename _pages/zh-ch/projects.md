@@ -3,7 +3,7 @@ page_id: projects
 layout: page
 title: 教学
 permalink: /projects/
-description: Uma crescente coleção de seus projetos interessantes.
+description: 教授课程。
 nav: true
 nav_order: 3
 display_categories: [work, fun]
