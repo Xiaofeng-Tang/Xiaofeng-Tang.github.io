@@ -6,7 +6,7 @@ permalink: /profiles/
 description: Members of out group.
 nav: true
 nav_order: 7
-display_categories: [teacher, students]
+display_categories: [staff, phd, master,alumni]
 horizontal: false
 ---
 
