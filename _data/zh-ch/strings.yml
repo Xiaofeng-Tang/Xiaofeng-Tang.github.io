@@ -108,9 +108,9 @@ newsletter:
   wait: "请稍等..."
 no_news: 没有新闻...
 pagination:
-  newer: Recentes
-  older: Antigas
-  page: página
+  newer: 更新
+  older: 更旧
+  page: 页
 post:
   created_in: Criado em
   created_by: 作者
