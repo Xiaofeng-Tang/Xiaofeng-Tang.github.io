@@ -4,8 +4,13 @@ archive_year: um arquivo de postagens deste ano
 blog:
   navigation_title: 博客
 categories:
-  fun: diversão
-  work: trabalho
+  fun: 娱乐
+  work: 工作
+  staff: 教师
+  phd: 博士生
+  master: 硕士生
+  undergrad: 本科生
+  alumni: 毕业生
 citation:
   bibtex: "ou como uma citação em BibTeX:"
   introduction: "Se você achou isso útil, por favor cite como:"
