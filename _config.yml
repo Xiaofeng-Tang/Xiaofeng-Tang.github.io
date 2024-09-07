@@ -184,6 +184,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  profiles:
+    output: true
+    permalink: /:collection/:title/
 
 announcements:
   enabled: true
