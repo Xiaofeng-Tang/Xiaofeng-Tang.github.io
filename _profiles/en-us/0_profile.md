@@ -1,7 +1,7 @@
 ---
 page_id: profile_0
 layout: page
-title: Xiaofeng Tang
+title: Xiaofeng TANG
 description: description
 img: assets/img/12.jpg
 importance: 1
