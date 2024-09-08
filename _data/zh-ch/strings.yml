@@ -1,6 +1,6 @@
-archive_category: um arquivo de postagens desta categoria
-archive_tag: um arquivo de postagens com este marcador
-archive_year: um arquivo de postagens deste ano
+archive_category: 此类别中的文章存档
+archive_tag: 带有此标签的文章存档
+archive_year: 此年份的文章存档
 blog:
   navigation_title: 博客
 categories:
@@ -12,16 +12,16 @@ categories:
   undergrad: 本科生
   alumni: 毕业生
 citation:
-  bibtex: "ou como uma citação em BibTeX:"
-  introduction: "Se você achou isso útil, por favor cite como:"
-contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+  bibtex: "或者作为 BibTeX 条目："
+  introduction: "如果你觉得这篇文章有用，请引用："
+contact_note: 
 cv:
   address: 地址
   area: 区域
-  awarder: Premiado por
+  awarder: 授奖人
   awards: 获奖
   basics: 基本信息
-  certificates: Certificados
+  certificates: 证书
   city: 城市
   countryCode: 国家代码
   courses: 课程
@@ -29,8 +29,8 @@ cv:
   education: 教育
   email: 电子邮件
   endDate: 结束日期
-  fluency: Fluência
-  highlights: Destaques
+  fluency: 流利度
+  highlights: 亮点
   image: 图片
   institution: 机构
   interests: 兴趣
@@ -39,28 +39,28 @@ cv:
   label: 标签
   language: 语言
   languages: 语言
-  level: Nível
-  location: Localização
+  level: 等级
+  location: 地点
   name: 姓名
-  network: Rede
-  organization: Organização
+  network: 网络
+  organization: 组织
   phone: 电话
-  position: Posição
+  position: 位置
   postalCode: 邮政编码
-  profiles: Perfis
+  profiles: 资料
   projects: 项目
   publications: 出版物
-  publisher: Editora
-  reference: Referência
-  references: Referências
+  publisher: 出版社
+  reference: 参考
+  references: 参考
   region: 地区
   releaseDate: 发布日期
   score: 分数
   skills: 技能
   startDate: 开始日期
   studyType: 学习类型
-  summary: Resumo
-  table_of_contents: Tópicos
+  summary: 总结
+  table_of_contents: 目录
   title: 标题
   url: Url
   username: 用户名
@@ -102,9 +102,9 @@ newsletter:
   back: 后退
   error: "出错了！请稍后再试。"
   subscribe: 订阅
-  subscribed: "Você se inscreveu com sucesso na newsletter."
-  subscribe_to_receive: "Inscreva-se para ser notificado de futuros artigos:"
-  too_many_signups: "Muitas inscrições, por favor tente novamente em breve"
+  subscribed: "您已成功订阅新闻"
+  subscribe_to_receive: "订阅以获取未来文章的通知："
+  too_many_signups: "注册人数过多，请稍后重试"
   wait: "请稍等..."
 no_news: 没有新闻...
 pagination:
@@ -112,37 +112,37 @@ pagination:
   older: 更旧
   page: 页
 post:
-  created_in: Criado em
+  created_in: 创建于
   created_by: 作者
   last_updated: 最后更新
 references: 参考文献
 related_posts:
-  description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
-  title: Gostou de Ler este Artigo?
+  description: "以下是您可能想阅读的一些文章："
+  title: 喜欢阅读这篇文章？
 search:
   dark_theme:
     description: 改为深夜模式
     title: 深夜模式
-  dropdown: Outras opções
+  dropdown: 下拉
   email: 电子邮件
   footer:
-    close: para fechar
-    navigate: para navegar
-    parent: voltar um nível
-    select: para selecionar
+    close: 关闭
+    navigate: 导航
+    parent: 移至父级
+    select: 选择
   languages: 语言
   light_theme:
     description: 改为白天模式
     title: 白天模式
   navigation: 导航
   news: 新闻
-  placeholder: Digite para iniciar a busca
-  posts: Postagens
+  placeholder: 输入以开始搜索
+  posts: 帖子
   projects: 项目
   socials: Redes sociais
   system_theme:
-    description: Muda o tema do site para o padrão do sistema
-    title: Usa o tema padrão do sistema
-  theme: Tema
+    description: 将网站主题更改为系统默认主题
+    title: 使用系统默认主题
+  theme: 主题
 selected_publications: 代表性出版物
-site_description: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
+site_description: 主题基于 [*folio](https://github.com/bogoli/-folio) 设计 [*folio](https://github.com/bogoli/-folio).
