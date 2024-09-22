@@ -7,7 +7,7 @@ subtitle: <a href='https://www.ioe.tsinghua.edu.cn/index.htm'>清华大学教育
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: family.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>北京市海淀区清华大学文南楼406, 100084</p>
