@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ioe.tsinghua.edu.cn/index.htm'>Institute of Education, Tsinghua University</a>,Associate Professor
+subtitle: <a href='https://www.ioe.tsinghua.edu.cn/index.htm'>Institute of Education, Tsinghua University</a>
 
 profile:
   align: right
